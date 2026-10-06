@@ -1,6 +1,6 @@
-# Ciencia de Datos
+﻿# Ciencia de Datos
 
-Trabajos de la materia Ciencia de Datos de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: casos prácticos de implementación de modelos y un tablero en Power BI.
+Trabajos de la materia Ciencia de Datos de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: casos prácticos de implementación de modelos y un tablero en Power BI.
 
 ## Contenido
 
